@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <Folder Include="Entity\" />
+    <Folder Include="SErvice\" />
   </ItemGroup>
 
 </Project>
